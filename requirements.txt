@@ -1,6 +1,6 @@
 streamlit
-opencv-python-headless
 mediapipe
 scipy
 matplotlib
 numpy
+opencv-contrib-python-headless==4.8.1.78
